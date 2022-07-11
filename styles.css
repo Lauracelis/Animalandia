@@ -1,0 +1,11 @@
+/*ESTILOS DEL MIAN EN EL HOME*/
+
+.main{
+    background-color: rgb(3, 154, 154);
+}
+.main_title-uppercase{
+    color: blue;
+}
+.main_Section{
+    color: aqua;
+}
